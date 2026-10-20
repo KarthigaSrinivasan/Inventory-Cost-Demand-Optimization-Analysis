@@ -1,0 +1,121 @@
+product_id,product_name,category,unit,unit_cost,selling_price,vat_rate,supplier_id
+1,Butter,Dairy,Box,38.71,69.99,15.0,16
+2,Butter 2,Dairy,Box,10.27,19.35,15.0,14
+3,Butter 3,Dairy,Piece,67.35,89.8,15.0,16
+4,Butter 4,Dairy,Carton,33.09,61.3,15.0,10
+5,Cheese,Dairy,Piece,70.38,108.26,15.0,13
+6,Cheese 2,Dairy,Kg,48.25,62.31,15.0,5
+7,Cheese 3,Dairy,Carton,54.61,95.17,15.0,17
+8,Cheese 4,Dairy,Piece,82.58,151.17,15.0,8
+9,Mozzarella,Dairy,Piece,18.56,28.83,15.0,16
+10,Mozzarella 2,Dairy,Kg,15.23,25.8,15.0,1
+11,Mozzarella 3,Dairy,Carton,82.32,120.33,15.0,15
+12,Mozzarella 4,Dairy,Carton,41.24,56.63,15.0,8
+13,Margarine,Dairy,Kg,41.75,58.35,15.0,3
+14,Margarine 2,Dairy,Kg,38.57,69.09,15.0,14
+15,Margarine 3,Dairy,Piece,28.27,50.63,15.0,15
+16,Margarine 4,Dairy,Kg,34.47,49.55,15.0,17
+17,Ice Cream,Dairy,Pack,14.03,19.36,15.0,14
+18,Ice Cream 2,Dairy,Carton,67.42,113.41,15.0,1
+19,Ice Cream 3,Dairy,Kg,66.91,103.6,15.0,15
+20,Ice Cream 4,Dairy,Kg,14.03,18.58,15.0,12
+21,Beef Patty,Meat,Kg,41.37,66.91,15.0,14
+22,Beef Patty 2,Meat,Box,54.86,88.32,15.0,16
+23,Beef Patty 3,Meat,Box,27.58,35.03,15.0,12
+24,Beef Patty 4,Meat,Pack,20.2,30.61,15.0,9
+25,Chicken Patty,Meat,Carton,21.8,28.08,15.0,18
+26,Chicken Patty 2,Meat,Carton,26.72,44.9,15.0,6
+27,Chicken Patty 3,Meat,Box,67.17,112.97,15.0,12
+28,Chicken Patty 4,Meat,Kg,69.66,94.64,15.0,9
+29,Beef,Meat,Pack,9.93,17.07,15.0,1
+30,Beef 2,Meat,Piece,15.8,24.9,15.0,10
+31,Beef 3,Meat,Carton,59.95,92.32,15.0,4
+32,Beef 4,Meat,Box,27.37,45.43,15.0,8
+33,Chicken,Meat,Piece,9.73,12.91,15.0,8
+34,Chicken 2,Meat,Pack,77.46,132.05,15.0,20
+35,Chicken 3,Meat,Kg,82.46,144.82,15.0,6
+36,Chicken 4,Meat,Pack,39.57,56.46,15.0,15
+37,Sausage,Meat,Box,76.96,119.0,15.0,2
+38,Sausage 2,Meat,Piece,27.74,45.12,15.0,5
+39,Sausage 3,Meat,Kg,73.17,127.54,15.0,4
+40,Sausage 4,Meat,Kg,38.15,63.24,15.0,15
+41,Burger Bun,Bakery,Box,56.11,73.22,15.0,12
+42,Burger Bun 2,Bakery,Piece,5.93,9.32,15.0,9
+43,Burger Bun 3,Bakery,Box,14.42,18.99,15.0,7
+44,Burger Bun 4,Bakery,Box,16.57,30.68,15.0,12
+45,Croissant,Bakery,Carton,31.12,50.85,15.0,12
+46,Croissant 2,Bakery,Pack,81.58,127.55,15.0,1
+47,Croissant 3,Bakery,Kg,9.33,14.61,15.0,16
+48,Croissant 4,Bakery,Piece,79.87,129.52,15.0,10
+49,Bread,Bakery,Kg,24.53,35.95,15.0,10
+50,Bread 2,Bakery,Kg,38.71,48.93,15.0,11
+51,Bread 3,Bakery,Pack,76.43,102.51,15.0,17
+52,Bread 4,Bakery,Pack,11.46,19.33,15.0,12
+53,Donut,Bakery,Box,56.9,98.01,15.0,6
+54,Donut 2,Bakery,Carton,11.39,21.02,15.0,16
+55,Donut 3,Bakery,Carton,5.59,9.0,15.0,5
+56,Donut 4,Bakery,Kg,70.96,125.98,15.0,8
+57,Cake,Bakery,Carton,81.11,116.73,15.0,7
+58,Cake 2,Bakery,Piece,23.62,43.9,15.0,11
+59,Cake 3,Bakery,Box,6.21,9.52,15.0,4
+60,Cake 4,Bakery,Carton,76.06,132.09,15.0,20
+61,Juice,Beverages,Carton,76.21,120.96,15.0,18
+62,Juice 2,Beverages,Kg,66.19,111.2,15.0,7
+63,Juice 3,Beverages,Kg,10.29,17.86,15.0,8
+64,Juice 4,Beverages,Pack,79.79,112.24,15.0,6
+65,Cola,Beverages,Box,71.07,95.92,15.0,3
+66,Cola 2,Beverages,Piece,51.95,94.47,15.0,4
+67,Cola 3,Beverages,Box,28.1,49.32,15.0,4
+68,Cola 4,Beverages,Pack,43.81,58.86,15.0,20
+69,Water,Beverages,Carton,21.45,28.65,15.0,1
+70,Water 2,Beverages,Box,12.55,19.82,15.0,14
+71,Water 3,Beverages,Carton,50.44,69.6,15.0,14
+72,Water 4,Beverages,Carton,61.52,106.45,15.0,17
+73,Iced Tea,Beverages,Carton,12.71,23.55,15.0,3
+74,Iced Tea 2,Beverages,Box,27.33,42.84,15.0,8
+75,Iced Tea 3,Beverages,Kg,81.34,116.82,15.0,14
+76,Iced Tea 4,Beverages,Carton,4.55,7.33,15.0,19
+77,Milkshake,Beverages,Box,11.24,15.08,15.0,13
+78,Milkshake 2,Beverages,Piece,82.21,134.61,15.0,9
+79,Milkshake 3,Beverages,Box,68.86,106.99,15.0,19
+80,Milkshake 4,Beverages,Piece,3.97,5.24,15.0,16
+81,Chocolate,Grocery,Pack,68.24,95.62,15.0,17
+82,Chocolate 2,Grocery,Pack,52.5,95.24,15.0,11
+83,Chocolate 3,Grocery,Piece,36.54,54.56,15.0,13
+84,Chocolate 4,Grocery,Carton,56.28,102.08,15.0,9
+85,Glaze,Grocery,Pack,22.95,32.22,15.0,10
+86,Glaze 2,Grocery,Carton,69.87,92.12,15.0,15
+87,Glaze 3,Grocery,Carton,51.54,69.32,15.0,2
+88,Glaze 4,Grocery,Box,28.1,37.75,15.0,17
+89,Sauce,Grocery,Carton,16.16,23.19,15.0,19
+90,Sauce 2,Grocery,Kg,12.03,15.2,15.0,4
+91,Sauce 3,Grocery,Piece,16.91,21.72,15.0,2
+92,Sauce 4,Grocery,Kg,58.66,88.33,15.0,12
+93,Ketchup,Grocery,Carton,44.12,80.24,15.0,7
+94,Ketchup 2,Grocery,Piece,6.09,8.33,15.0,18
+95,Ketchup 3,Grocery,Carton,23.07,37.4,15.0,5
+96,Ketchup 4,Grocery,Carton,6.56,9.79,15.0,9
+97,Mayonnaise,Grocery,Carton,10.89,19.51,15.0,11
+98,Mayonnaise 2,Grocery,Box,78.8,103.58,15.0,2
+99,Mayonnaise 3,Grocery,Carton,76.97,145.22,15.0,17
+100,Mayonnaise 4,Grocery,Pack,66.81,111.41,15.0,17
+101,Grill Tray,Kitchen,Piece,13.6,21.74,15.0,16
+102,Grill Tray 2,Kitchen,Pack,73.25,113.6,15.0,11
+103,Grill Tray 3,Kitchen,Piece,55.26,78.65,15.0,8
+104,Grill Tray 4,Kitchen,Box,41.92,63.76,15.0,3
+105,Food Box,Kitchen,Piece,32.82,48.84,15.0,5
+106,Food Box 2,Kitchen,Piece,33.81,57.33,15.0,7
+107,Food Box 3,Kitchen,Pack,80.78,149.09,15.0,6
+108,Food Box 4,Kitchen,Carton,29.59,47.29,15.0,10
+109,Paper Cup,Kitchen,Carton,56.34,99.88,15.0,17
+110,Paper Cup 2,Kitchen,Kg,54.72,78.65,15.0,11
+111,Paper Cup 3,Kitchen,Box,19.2,32.67,15.0,15
+112,Paper Cup 4,Kitchen,Kg,13.4,22.1,15.0,18
+113,Napkin,Kitchen,Piece,62.37,81.39,15.0,2
+114,Napkin 2,Kitchen,Kg,13.84,25.93,15.0,19
+115,Napkin 3,Kitchen,Box,51.48,90.54,15.0,17
+116,Napkin 4,Kitchen,Carton,80.55,113.95,15.0,16
+117,Foil,Kitchen,Piece,10.34,17.07,15.0,12
+118,Foil 2,Kitchen,Box,49.11,79.66,15.0,4
+119,Foil 3,Kitchen,Kg,45.62,79.68,15.0,10
+120,Foil 4,Kitchen,Carton,43.1,70.67,15.0,16
